@@ -1,8 +1,8 @@
 # 202431181_Zhalsabila_PEMWEB_A_TUGAS
 
-# Portofolio Zhalsabila Amaia Putri
+# Portofolio Zhalsabila Amalia Putri
 
-1. ### Deskripsi
+## 1. Deskripsi
 
     Website portofolio ini dibuat untuk menampilkan informasi diri, seperti profil, keahlian,        proyek yang pernah dibuat, dan kontak.
     Portofolio ini menjadi media dokumentasi perjalanan belajar dalam pengembangan web,              khususnya menggunakan HTML, CSS, dan JavaScript tanpa bantuan framework backend.
@@ -21,11 +21,11 @@
 
     Tampilan web bersifat responsif untuk desktop maupun mobile dan dilengkapi animasi smooth        scrolling serta reveal effect agar lebih interaktif.
 
-2. # Tujuan 
+## 2. Tujuan 
 
    Website ini dibuat untuk memenuhi tugas mata kuliah Pemrograman Web.Proyek ini bertujuan         melatih kemampuan dalam menyusun struktur HTML, menggunakan CSS untuk tampilan, menerapkan       interaksi dengan JavaScript, dan membuat desain responsif. Mahasiswa diharapkan mampu            membangun website statis yang fungsional, menarik, dan mudah digunakan.
 
-3. # Fitur
+## 3. Fitur
 
     Navigasi Responsif: Menu hamburger untuk perangkat mobile.
    
@@ -41,7 +41,7 @@
    
     Footer: Informasi hak cipta dan link ke institusi
 
-5. # Struktur File
+## 5. Struktur File
 
     portofolio-zhalsabila/
     ├── index.html          = Halaman beranda utama
