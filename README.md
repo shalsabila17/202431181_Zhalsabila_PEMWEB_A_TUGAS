@@ -2,7 +2,7 @@
 
 # Portofolio Zhalsabila Amaia Putri
 
-1. # Deskripsi
+1. ## Deskripsi
 
     Website portofolio ini dibuat untuk menampilkan informasi diri, seperti profil, keahlian,        proyek yang pernah dibuat, dan kontak.
     Portofolio ini menjadi media dokumentasi perjalanan belajar dalam pengembangan web,              khususnya menggunakan HTML, CSS, dan JavaScript tanpa bantuan framework backend.
