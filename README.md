@@ -37,7 +37,7 @@
    
     Sosial Media Links: Link ke GitHub dan Instagram.
    
-    Reveal Effects: Elemen muncul saat di-scroll (menggunakan Intersection Observer).
+    Reveal Effects: Elemen muncul saat di-scroll.
    
     Footer: Informasi hak cipta dan link ke institusi
 
@@ -54,4 +54,4 @@
    
     ├── script.js           = File JavaScript untuk interaktivitas
    
-    └── profil.jpg          = Gambar profil (pastikan ada di direktori)
+    └── profil.jpg          = Gambar profil 
