@@ -7,6 +7,7 @@ Website portofolio ini dibuat untuk menampilkan informasi diri, seperti profil, 
 Portofolio ini menjadi media dokumentasi perjalanan belajar dalam pengembangan web, khususnya menggunakan HTML, CSS, dan JavaScript tanpa bantuan framework backend.
 
 Website terdiri dari beberapa bagian utama, yaitu:
+
 Beranda (index.html): berisi pengenalan singkat dan foto diri.
 Tentang: berisi latar belakang dan minat (bagian dalam index.html).
 Keahlian: menampilkan kemampuan dalam bentuk progress bar (bagian dalam index.html).
@@ -15,10 +16,12 @@ Kontak (contact.html): halaman formulir untuk mengirim pesan.
 
 Tampilan web bersifat responsif untuk desktop maupun mobile dan dilengkapi animasi smooth scrolling serta reveal effect agar lebih interaktif.
 
-Tujuan Tugas
+Tujuan 
+
 Website ini dibuat untuk memenuhi tugas mata kuliah Pemrograman Web.Proyek ini bertujuan melatih kemampuan dalam menyusun struktur HTML, menggunakan CSS untuk tampilan, menerapkan interaksi dengan JavaScript, dan membuat desain responsif. Mahasiswa diharapkan mampu membangun website statis yang fungsional, menarik, dan mudah digunakan.
 
 Fitur
+
 Navigasi Responsif: Menu hamburger untuk perangkat mobile.
 Animasi Keahlian: Bar progress yang teranimasi dengan counter persentase.
 Smooth Scrolling: Navigasi halus antar bagian.
@@ -28,6 +31,7 @@ Reveal Effects: Elemen muncul saat di-scroll (menggunakan Intersection Observer)
 Footer: Informasi hak cipta dan link ke institusi
 
 Struktur File
+
 portofolio-zhalsabila/
 ├── index.html          = Halaman beranda utama
 ├── data.html           = Halaman portofolio proyek
